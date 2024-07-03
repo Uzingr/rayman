@@ -5,6 +5,6 @@ New code for ROS2 offboard example in order to create a connection between offbo
 1. Creare una cartella nuova
 2. Creare una sottocartella src
 3. fare il git clone di px4_msgs e px4_ros_com
-4. clonare questa repo e sostituire il nodo nel percorso "px4_ros_com/src/examples/offboard/offboard_control.cpp" con il nuovo nodo di questa repo
+4. clonare questa repo e sostituire il nodo nel percorso "px4_ros_com/src/examples/offboard/offboard_control.cpp" con il nuovo nodo di questa repo (PRIMA CANCELLARE IL VECCHIO CODICE OFFBOARD_CONTROL.CPP!!!)
 
 ## Seguire i passaggi del seguente sito: https://docs.px4.io/main/en/ros2/offboard_control
